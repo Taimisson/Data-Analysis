@@ -1,0 +1,53 @@
+SELECT
+  id,
+  first_name,
+  email,
+  age
+FROM `bigquery-public-data.thelook_ecommerce.users`
+ORDER BY created_at;
+
+SELECT
+  order_id,
+  status
+FROM `bigquery-public-data.thelook_ecommerce.orders`
+WHERE status in ("Shipped", "Processing");
+-- WHERE status  = "Shipped" or status = "Processing";
+
+SELECT
+   order_id,
+   status,
+   created_at,
+   date(created_at) as dia
+FROM `bigquery-public-data.thelook_ecommerce.orders`
+WHERE status = "Cancelled" and date(created_at) = "2022-04-05";
+
+SELECT
+  email
+FROM `bigquery-public-data.thelook_ecommerce.users`
+WHERE email is not null and country = "Brasil";
+
+SELECT
+  order_id,
+  first_name
+FROM `bigquery-public-data.thelook_ecommerce.users` u 
+JOIN `bigquery-public-data.thelook_ecommerce.orders` o on u.id = o.user_id;
+
+SELECT
+  gameId,
+  homeTeamName,
+  awayTeamName,
+  duration_minutes,
+  attendance
+FROM `bigquery-public-data.baseball.schedules`
+WHERE duration_minutes >= 250 and attendance < 25000;
+
+SELECT
+  *
+FROM `bigquery-public-data.baseball.schedules`
+WHERE date(startTime) between "2016-05-01" and "2016-06-30";
+
+SELECT distinct
+  homeTeamName
+FROM `bigquery-public-data.baseball.schedules`
+WHERE homeTeamName like "______";
+
