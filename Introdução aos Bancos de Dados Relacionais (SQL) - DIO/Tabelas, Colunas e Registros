@@ -1,0 +1,19 @@
+# Tabelas
+
+ - Ela é usada para armazenar dados de forma organizada. Cada tabela em um banco de dados relacional tem um nome único e é dividida em linhas e colunas.
+
+ # Colunas
+ 
+ - Uma coluna é uma estrutura dentro de uma tabela que representa um atributo específico dos dados armazenados. Cada coluna tem um nome único e um tipo de dados associado que define o tipo de informação que pode ser armazenado nela, como números, textos, datas, etc.
+
+ # Registros
+
+ - Um registro, também conhecido como tupla ou linha, é uma instância individual de dados em uma tabela.
+ 
+ - Comando: CREATE TABLE
+ 
+ ```
+ CREATE TABLE {{nome}}
+    ([{coluna}]) {[tipo]} {{opções}} COMMENT
+    {{"COMENTARIO"}});
+ ```
