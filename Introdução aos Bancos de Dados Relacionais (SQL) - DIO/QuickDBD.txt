@@ -1,0 +1,11 @@
+Usuarios
+-
+id PK int
+nome string
+dataNascimento Date
+endereco string
+
+Reservas
+-
+id
+idUsuario int FK >- Usuarios.id
