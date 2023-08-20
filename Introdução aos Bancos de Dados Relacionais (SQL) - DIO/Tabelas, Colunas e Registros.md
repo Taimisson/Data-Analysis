@@ -11,7 +11,6 @@
  - Um registro, também conhecido como tupla ou linha, é uma instância individual de dados em uma tabela.
  
  - Comando: CREATE TABLE
- 
  ```
  CREATE TABLE {{nome}}
     ([{coluna}]) {[tipo]} {{opções}} COMMENT
