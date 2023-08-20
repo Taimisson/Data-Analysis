@@ -1,5 +1,4 @@
 
-```markdown
 # Guia SQL: Primeiros Passos
 
 Assim como os humanos usam linguagens diferentes para se comunicar com outras pessoas, o mesmo ocorre com os computadores. A linguagem de consulta estruturada (SQL, geralmente pronunciada como "sequel") permite que os analistas de dados se comuniquem com os bancos de dados. O SQL é uma das ferramentas mais úteis para os analistas de dados, especialmente ao trabalhar com grandes conjuntos de dados em tabelas. Ela pode ajudar a investigar bancos de dados enormes, rastrear textos (conhecidos como strings) e números, e filtrar o tipo exato de dados de que você precisa de maneira muito mais rápida do que uma planilha.
@@ -135,4 +134,3 @@ customer_id   |   first_name   |   last_name
 ## Principal Conclusão
 
 O mais importante a ser lembrado é como usar SELECT, FROM e WHERE em uma consulta. As consultas com vários campos ficarão mais simples depois que você praticar a escrita de suas próprias consultas SQL posteriormente no programa.
-```
