@@ -123,9 +123,7 @@ Os dados resultantes da consulta SQL podem ter a seguinte aparência (estagiári
 | 0034  | Bart      | Simpson   | SFI     | 25000  |
 | 0108  | Edna      | Krabappel | TUL     | 18000  |
 | 0099  | Moe       | Szyslak   | ANA     | 28000  |
-```
 
 Com acesso rápido a esse tipo de dado usando SQL, é possível fornecer ao gerente toneladas de diferentes insights sobre os dados dos funcionários, incluindo se os salários são equitativos em toda a empresa. Felizmente, a consulta indica que apenas dois outros funcionários podem precisar de um ajuste de salário, e você mostra os resultados ao seu gerente.
 
 Retirar os dados, analisá-los e implementar uma solução pode, em última análise, ajudar a melhorar a satisfação e a lealdade dos funcionários. Isso torna o SQL uma ferramenta muito útil.
-```
