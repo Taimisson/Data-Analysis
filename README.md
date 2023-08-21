@@ -1,6 +1,6 @@
 # Learning SQL Repository
 
-Welcome to the Learning SQL repository! This repository is your personal space to document and organize your journey through various SQL courses and learning resources. Whether you're diving into data analysis, exploring relational databases, or harnessing SQL for data manipulation, this repository will serve as your knowledge hub.
+Welcome to the Learning SQL repository! This repository is my personal space to document and organize my journey through various SQL courses and learning resources. Whether I'm diving into data analysis, exploring relational databases, or harnessing SQL for data manipulation, this repository will serve as my knowledge hub.
 
 ## Table of Contents
 
@@ -26,12 +26,12 @@ SQL (Structured Query Language) is a powerful tool for working with databases, m
 2. **Introdução aos Bancos de Dados Relacionais (SQL) - DIO**
    - Platform: Digital Innovation One (DIO)
    - Description: This course introduces you to relational databases and SQL fundamentals. You'll learn how to design and interact with databases using SQL queries.
-   - Progress: Completed
+   - Progress: In Progress
 
 3. **SQL para Análise de Dados - Udemy**
    - Platform: Udemy
    - Description: Dive deeper into SQL for data analysis. This course covers advanced SQL concepts and techniques to enhance your data analysis skills.
-   - Progress: Not Started
+   - Progress: Completed
 
 ## Resources
 
