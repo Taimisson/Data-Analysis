@@ -18,23 +18,22 @@
  ```
 
 # Tipos de Dados
+* Os dados podem varias muito entre os diversos SGBD, os mais comuns são:
+   - Inteiro (Integer)
+   - Decimal/Numérico (Decimal/Numeric)
+   - Caractere/Varchar (Character/Varchar)
+   - Data/Hora (Date/Time)
+   - Booleano (Boolean)
+   - Texto longo (Text)
 
-- Os dados podem varias muito entre os diversos SGBD, os mais comuns são:
--> Inteiro (Integer)
--> Decimal/Numérico (Decimal/Numeric)
--> Caractere/Varchar (Character/Varchar)
--> Data/Hora (Date/Time)
--> Booleano (Boolean)
--> Texto longo (Text)
+# Comando: CREATE TABLE - Opções
 
-- Comando: ** CREATE TABLE ** - Opções
-
--> Restrições de valor:
-   NOT NULL
-   UNIQUE
-   DEFAULT
--> Chaves primárias e estrangeiras
--> Auto Incremento
+* Restrições de valor:
+   - NOT NULL
+   - UNIQUE
+   - DEFAULT
+* Chaves primárias e estrangeiras
+* Auto Incremento
 
 ```
 CREATE TABLE usuarios (
