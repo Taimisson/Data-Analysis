@@ -37,3 +37,7 @@ FROM usuarios;
 DROP TABLE usuarios;
 ALTER TABLE usuarios_nova RENAME usuarios;
 ```
+
+```
+ALTER TABLE usuarios MODIFY COLUMN endereco VARCHAR(150);
+```
