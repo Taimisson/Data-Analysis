@@ -7,14 +7,20 @@
 * Eles são amplamente utilizados em cenários onde a consistência imediata dos dados não é crítica.
 
 # Diferenças
+- SQL                                  
+  * Modelo de dados fixo                
+  * Escalabilidade vertical (hardware)  
+  * Transações ACID 100%                
+  * Linguagem de Consulta SQL           
 
------
-SQL                                 |              NoSQL 
-Modelo de dados fixo                | Modelo de dados flexível
-Escalabilidade vertical (hardware)  | Escalabilidade Horizontal
-Transações ACID 100%                | Transações ACID ausentes total ou parcial
-Linguagem de Consulta SQL           | Cada SGBD tem sua própria
------
+
+- NoSQL 
+  * Modelo de dados flexível
+  * Escalabilidade Horizontal
+  * Transações ACID ausentes total ou parcial
+  * Cada SGBD tem sua própria
+
+
 
 # Vantagens dos bancos de dados NoSQL
 * Flexibilidade na modelagem
