@@ -45,3 +45,31 @@ que são estruturas flexíveis e semiestruturadas.
     ...
 }
 ```
+
+- Example:
+
+```
+{
+   "_id":1,
+   "nome":"Taisoo Magnus",
+   "idade":19,
+   "data_nascimento":"20023-12-22",
+   "endereco":"Rua Centro, 123",
+   "enderecos":[
+      {
+         "logradouro":"Rua Independência...",
+         "numero":123,
+         "bairro":"Centro",
+         "cidade":"São Leopoldo"
+      }
+   ],
+   "interesses":[
+      "kart",
+      "culinaria"
+   ],
+   "reservas":[
+      1,
+      2
+   ]
+}
+```
