@@ -10,3 +10,16 @@
 * Cache de Alto Desempenho
 * Pub/Sub (Publicação/Assinatura)
 
+# Principais Comandos
+
+* SET
+* GET
+* DEL
+* EXISTS
+* KEYS
+* INCR
+* DECR
+
+```
+https://try.redis.io/
+```
