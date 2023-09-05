@@ -40,3 +40,4 @@ db.usuarios.find({"endereco.cidade":"São Paulo"})
 ```
 db.usuarios.find().skip(10).limit(5)
 ```
+
