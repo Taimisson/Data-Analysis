@@ -1,31 +1,31 @@
-# Dados X Info X Conhecimento
+# Dados vs. Informação vs. Conhecimento
 
-- Dados: Não possuem valor - qualquer tipo de dados
-- Informação: Representação do cenário
-- Conhecimenot: Compreensão de um contexto
+- **Dados**: Não possuem valor - qualquer tipo de dados
+- **Informação**: Representação do cenário
+- **Conhecimento**: Compreensão de um contexto
 
-# Business Intelligente
+# Business Intelligence (BI)
 
-- "Business Intelligence consiste em uma área composta por estratégias e tecnologias utilizadas pelas empresas a fim de realizar análise de dados e gerenciamento de informações."
+> "Business Intelligence consiste em uma área composta por estratégias e tecnologias utilizadas pelas empresas a fim de realizar análise de dados e gerenciamento de informações."
 
-# O que é Business Intelligence?
+## O que é Business Intelligence?
 
-* Objetivo: transformar dados em conhecimento
-* Entendimento: fatores conhecidos e não conhecidos
-* Foco: operações e melhorias
+* **Objetivo**: Transformar dados em conhecimento
+* **Entendimento**: Fatores conhecidos e não conhecidos
+* **Foco**: Operações e melhorias
 
-- Evolução:
-    * Relatórios -> Relatórios + sotisficados (Monitoramento de ativos, comportamento de clientes, previsibilidade de vendas)
+### Evolução:
 
-    * Receita recorrente                   |
-    * Produtividade                        |
-    * Margem bruta de lucro                 > Interligar métricas distintas: BI
-    * Retorno sobre o Investimento         |
-    * Número total de clientes             |  
+- Relatórios -> Relatórios mais sofisticados (Monitoramento de ativos, comportamento de clientes, previsibilidade de vendas)
+- Receita recorrente
+- Produtividade
+- Margem bruta de lucro
+- Retorno sobre o Investimento
+- Número total de clientes
 
 # Futuro do BI
 
-- Diferentes escopo
+- Diferentes escopos
 - Variedade dos dados
 - Especificidade
 - Granularidade de dados
@@ -34,13 +34,33 @@
 
 - Orquestração
 - Recuperação de Dados
-- Integração 
+- Integração
 - Relatórios de visualização
 
-# Big Data & BI
+# Big Data e BI
 
-* Volume            * Dados típicos 
-* Variedade         * Maioria das empresas
-* Velocidade        * Baixo volume de dados
-* Veracidade
+- **Volume**: Dados típicos
+- **Variedade**: Maioria das empresas
+- **Velocidade**: Baixo volume de dados
+- **Veracidade**
 
+## Tipos de Análises em BI
+
+- BI e Data Science (DS) e os Tipos de Análise
+  * Descritiva
+  * Diagnóstica
+  * Preditiva
+  * Prescritivo
+
+### Descritiva
+
+- Primeira análise
+- Caracterizar, sumarizar...
+- Entender o comportamento dos dados
+
+### Diagnóstica
+
+- Encontrar relações de causa e efeito no cenário descrito pelos dados (Exames médicos, por exemplo)
+- Processo probabilístico
+
+### Preditiva e Prescritivo (Data Science / Futuro)
