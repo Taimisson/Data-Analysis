@@ -64,3 +64,32 @@
 - Processo probabilístico
 
 ### Preditiva e Prescritivo (Data Science / Futuro)
+
+- Tentar prever um cenário
+- Probabilidade
+- Análise de Tendências
+
+- Diagnóstico e Prescrição
+- Resolução de um problema
+- Subsídio dos impactos
+
+# Como aplicar BI?
+
+- Coleta das informações
+- Estruturação (transformação)
+- Representaçao visual
+
+# Respeite o processo
+
+- Problema de négocio
+- Peguntas sobre o contexto
+- Escolha o tipo de análise
+- Utilize as ferramentas
+
+### BI e Data Science
+
+* Descritiva: O que aconteceu?
+* Diagnóstica: Por que aconteceu?
+* Preditiva: O que vai acontecer?
+* Prescritivo: O que fazer?
+
