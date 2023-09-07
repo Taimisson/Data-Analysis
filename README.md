@@ -35,7 +35,7 @@ SQL (Structured Query Language) is a powerful tool for working with databases, m
 
 ## Resources
 
-- [SQL Cheat Sheet](resources/sql-cheat-sheet.pdf): A handy reference guide for SQL syntax, functions, and common commands.
+-  A handy reference guide for SQL syntax, functions, and common commands.
 
 ## Projects
 
@@ -43,9 +43,9 @@ SQL (Structured Query Language) is a powerful tool for working with databases, m
 
 ## Notes
 
-- [SQL Basics](notes/sql-basics.md): Essential SQL concepts, including querying data, filtering, sorting, and joining tables.
-- [Database Design](notes/database-design.md): Key considerations for designing efficient and normalized databases.
-- [Advanced SQL Techniques](notes/advanced-sql-techniques.md): Advanced SQL topics, including subqueries, window functions, and optimization.
+- Essential SQL concepts, including querying data, filtering, sorting, and joining tables.
+- Key considerations for designing efficient and normalized databases.
+- Advanced SQL topics, including subqueries, window functions, and optimization.
 
 ## Contributing
 
