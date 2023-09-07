@@ -39,7 +39,7 @@ SQL (Structured Query Language) is a powerful tool for working with databases, m
 
 ## Projects
 
-- [Employee Database Analysis](projects/employee-database-analysis/): Explore a sample employee database using SQL queries to extract insights about employee performance, departments, and salaries.
+- Explore a sample employee database using SQL queries to extract insights about employee performance, departments, and salaries.
 
 ## Notes
 
