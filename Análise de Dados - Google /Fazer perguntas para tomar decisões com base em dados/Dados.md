@@ -105,4 +105,5 @@ Quando você está iniciando sua carreira como analista de dados, é normal se s
 
 
 // O público-alvo são as pessoas que a empresa está tentando conquistar.
+// Entender quem e o que são nossos dados em PREPARAR
 
