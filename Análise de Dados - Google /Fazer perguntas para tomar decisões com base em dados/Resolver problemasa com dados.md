@@ -33,5 +33,3 @@ This illustration shows a numbered list with six icons. Each icon represents one
 - À medida que avança neste programa, você desenvolverá uma visão mais apurada dos problemas e você vai trabalhar seu raciocínio nos diferentes tipos de problema ao iniciar a análise. Este método de resolução de problemas o ajudará a descobrir soluções que atendam às necessidades de todas as partes interessadas.
 
 
-## Problemas no Mundo Real
-
