@@ -37,3 +37,6 @@ Em muitos aplicativos de planilha, você pode pressionar a tecla F2 (ou Enter) p
 - Combinar com as funções
 
 COUNTIF() é uma fórmula e uma função. Isso significa que a função é executada com base nos critérios definidos pela fórmula. Nesse caso, CONTAR é a fórmula; ele será executado SE as condições que você criar forem verdadeiras. Por exemplo, você pode usar =COUNTIF(A1:A16, “7”) para contar apenas as células que continham o número 7. Combinar fórmulas e funções permite que você trabalhe mais com um único comando.
+
+# Erros e Correções nas Planilhas
+
