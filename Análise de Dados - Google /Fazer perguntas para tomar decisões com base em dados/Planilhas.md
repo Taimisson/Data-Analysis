@@ -55,4 +55,5 @@ COUNTIF() é uma fórmula e uma função. Isso significa que a função é execu
 
 ![Alt text](image.png)
 
+- Problem Domain
 
