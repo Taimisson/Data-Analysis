@@ -54,3 +54,5 @@ COUNTIF() é uma fórmula e uma função. Isso significa que a função é execu
 - #REF! > A formula referencing a cell has been deleted
 
 ![Alt text](image.png)
+
+
