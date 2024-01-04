@@ -40,3 +40,17 @@ COUNTIF() é uma fórmula e uma função. Isso significa que a função é execu
 
 # Erros e Correções nas Planilhas
 
+- #DIV/0 > Division for 0
+    - = IFERROR
+
+- #ERROR! 
+
+- #N/A > Data cant be found by spreadsheet
+
+- #NUM! > Can't be perfomed 
+
+- #VALUE! > Formula or cells
+
+- #REF! > A formula referencing a cell has been deleted
+
+![Alt text](image.png)
