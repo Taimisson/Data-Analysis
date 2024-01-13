@@ -1,22 +1,22 @@
-# Considerações sobre a Coleta de Dados
+# Selecionando os Dados Certos
 
-- Como os dados serão coletados
-- Escolher fontes de dados
-- Decidir quais dados usar
-- Quanto de dados coletar
-- Selecionar o tipo de dados correto
-- Determinar o período de tempo
+Aqui estão algumas considerações de coleta de dados a serem lembradas para sua análise:
 
-Nos casos em que coletar dados de uma população inteira é um desafio, os analistas de dados podem optar por usar uma amostra. Uma amostra é uma parte representativa de uma população.
+### Como os Dados Serão Coletados
+Decida se você coletará os dados usando seus próprios recursos ou se os receberá (e possivelmente os comprará) de outra parte. Os dados que você mesmo coleta são chamados de dados primários.
 
-O processo de coleta de dados envolve decidir quais dados usar, determinar a quantidade de dados a serem coletados e selecionar o tipo de dados correto. Quais das opções a seguir também são etapas no processo de coleta de dados? Selecione todas as opções aplicáveis.
+### Fontes de Dados
+Se você não coletar os dados usando seus próprios recursos, poderá obter dados de provedores de dados terceirizados. Os dados de terceiros são coletados diretamente por outro grupo e, em seguida, vendidos. Os dados de terceiros são vendidos por um provedor que não os coletou. Os dados de terceiros podem vir de várias fontes diferentes.
 
-- **Escolher fontes de dados**
+### Resolvendo Seu Problema de Negócios
+Os conjuntos de dados podem mostrar muitas informações interessantes. Porém, certifique-se de escolher dados que possam realmente ajudar a resolver sua dúvida do problema. Por exemplo, se você estiver analisando tendências ao longo do tempo, certifique-se de usar dados de série temporal — em outras palavras, dados que incluem datas.
 
-  Correto. Escolher fontes de dados é uma etapa no processo de coleta de dados.
+### Quantos Dados Coletar
+Se você estiver coletando seus próprios dados, tome decisões razoáveis sobre o tamanho da amostra. Uma amostra aleatória de dados existentes pode ser adequada para alguns projetos. Outros projetos podem precisar de coleta de dados mais estratégicos para se concentrar em determinados critérios. Cada projeto tem suas próprias necessidades.
 
-- **Analisar os dados para responder a perguntas de negócios**
+### Prazo
+Se você estiver coletando seus próprios dados, decida quanto tempo precisará coletá-los, especialmente se estiver acompanhando tendências por um longo período. Se precisar de uma resposta imediata, você pode não ter tempo para coletar novos dados. Nesse caso, você precisaria usar dados históricos já existentes.
 
-- **Determinando o prazo**
+Use o fluxograma abaixo se a coleta de dados depende muito de quanto tempo você tem:
 
-  Correto. Determinar o período de tempo é uma etapa no processo de coleta de dados.
+![Alt text](image.png)
