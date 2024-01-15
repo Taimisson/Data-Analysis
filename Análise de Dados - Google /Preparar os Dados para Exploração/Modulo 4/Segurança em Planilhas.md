@@ -27,3 +27,10 @@ Criptografia e tokenização são apenas algumas opções de segurança de dados
 ## Responsabilidade e Conhecimento do Analista de Dados
 
 Como analista de dados júnior, você provavelmente não será responsável por desenvolver esses sistemas. Muitas organizações têm equipes dedicadas à segurança de dados ou contratam empresas especializadas. No entanto, é crucial que todas as empresas mantenham a segurança dos dados e compreendam os sistemas que podem ser implementados.
+
+# Teste 
+
+Excelente trabalho ao reforçar seu aprendizado com uma autorreflexão cuidadosa! Uma ótima observação sobre o assunto incluiria como e quando você deve aplicar seu conhecimento sobre privacidade de dados e controle de versão ao trabalhar no Kaggle.
+
+Entender como manter a privacidade e registrar seu progresso com o controle de versão é uma habilidade fundamental para a função de analista de dados, na qual se espera, em geral, que você trabalhe junto com outros analistas. Se você domina os padrões de privacidade e sabe como garantir uma colaboração efetiva, você ficará livre do risco de expor dados importantes ou perder trabalhos essenciais. Futuramente, você pode usar seu conhecimento sobre a segurança dos dados em outras plataformas ou em projetos futuros.
+
