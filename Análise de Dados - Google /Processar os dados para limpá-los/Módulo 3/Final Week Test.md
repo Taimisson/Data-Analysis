@@ -1,5 +1,3 @@
-
-
 ## Parabéns! Você foi aprovado!
 ### Nota recebida: 100%
 **Requisito para Aprovação:** 80% ou superior
@@ -60,6 +58,3 @@
 - **ID da Fatura na Linha 7:** 390
   - **Feedback:** A função `SUBSTR` extrai as primeiras 4 letras das cidades, com o ID da fatura 390 aparecendo na linha 7.
 
----
-
-Este resumo abrangente oferece um registro detalhado das suas respostas e feedbacks na avaliação, organizado para uma fácil referência.
