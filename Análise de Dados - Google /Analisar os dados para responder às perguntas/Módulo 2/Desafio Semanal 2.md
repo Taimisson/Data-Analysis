@@ -1,4 +1,5 @@
-# Desafio Semanal 2 - Resultado - 100%
+# Desafio Semanal 2
+## Nota: 100%
 
 ## Perguntas e Respostas sobre Planilhas e SQL
 
