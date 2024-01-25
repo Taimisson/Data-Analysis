@@ -1,1 +1,1 @@
-# 
+Planilhas Google: Mudar o formato de data: Se você estiver trabalhando com o Planilhas Google, esse recurso demonstrará como converter suas strings de texto em datas e como aplicar os diferentes formatos de data disponíveis no Planilhas Google.
