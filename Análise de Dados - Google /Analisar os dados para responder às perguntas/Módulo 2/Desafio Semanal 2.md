@@ -80,4 +80,3 @@
 - [x]  Falso
 
 **Resposta Correta**: Ao trabalhar com planilhas, os analistas de dados podem usar a função FIND para localizar caracteres específicos em uma string.
-
