@@ -132,7 +132,6 @@ Seu banco de dados contém pessoas que vivem em Wyoming. No entanto, é importan
 
 **Os códigos postais estão na coluna chamada zip_code. Qual consulta você usa para selecionar todos os dados da Donation_Form_List, organizados por código postal?**
 
-1 / 1 ponto
 
 !https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/4f8ee26b-578c-4184-992e-96c8058ea7d0image5.jpeg?expiry=1706486400000&hmac=OYE8pEvHAZPcYpfhxIUS7MGOi7-rgOL-imVSwxXifzw
 
