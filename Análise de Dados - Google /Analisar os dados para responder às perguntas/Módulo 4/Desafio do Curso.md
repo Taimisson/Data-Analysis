@@ -264,7 +264,6 @@ A grande inauguração da horta comunitária foi um sucesso. Além dos 55 doador
 
 **Qual é a seção de uma consulta SQL que calculará a porcentagem de contribuições de doadores em potencial?**
 
-1 / 1 ponto
 
 **(Total_prospects * Total_donors / 100) AS Prospects_Percent**
 
