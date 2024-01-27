@@ -48,7 +48,6 @@ Você nota que muitas células na coluna da cidade, a coluna K, não possuem um 
 
 **Qual ferramenta de planilha permite controlar o que pode e o que não pode ser inserido em sua planilha a fim de evitar erros de digitação?**
 
-1 / 1 ponto
 
 **Lista**
 
