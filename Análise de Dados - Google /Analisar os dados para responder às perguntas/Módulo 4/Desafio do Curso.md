@@ -90,7 +90,6 @@ A essa altura, você percebe que as informações sobre estado e código postal 
 
 **Para mover o código postal de 5 dígitos na célula L2 para sua própria coluna, use a função =LEFT(L2,5).**
 
-1 / 1 ponto
 
 **Verdadeiro**
 
